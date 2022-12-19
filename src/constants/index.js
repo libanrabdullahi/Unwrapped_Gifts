@@ -1,4 +1,4 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star } from "../assets";
+import { facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star } from "../assets";
 
 export const navLinks = [{
         id: "home",
@@ -21,60 +21,57 @@ export const navLinks = [{
 export const features = [{
         id: "feature-1",
         icon: star,
-        title: "Rewards",
-        content: "The best credit cards offer some tantalizing combinations of promotions and prizes",
+        content: "Ron has successfully launched or partnered in the launch of 5 businesses in Central Ohio, and also oversaw the grass root development of a non-profit Community Development Corporation.",
     },
     {
         id: "feature-2",
-        icon: shield,
-        title: "100% Secured",
-        content: "We take proactive steps make sure your information and transactions are secure.",
+        icon: star,
+        content: "Ron actively engages in his community by serving boards, participating in community outreach, and developing our future leaders.",
     },
     {
         id: "feature-3",
-        icon: send,
-        title: "Balance Transfer",
-        content: "A balance transfer credit card can save you a lot of money in interest charges.",
+        icon: star,
+        content: "Ron is a proud graduate of Project Diversity and The African American Leadership Academy.A graduate of Wittenberg University, Ron majored in sociology. Ron, a four year letterman, is fiercely competitive,",
     },
 ];
 
 export const feedback = [{
         id: "feedback-1",
-        content: "Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver.",
-        name: "Herman Jensen",
-        title: "Founder & Leader",
-        img: people01,
+        content: "This book spoke to me on so many different levels. The transparency into the author’s life journey is so refreshing and respected. Although we all have different paths each chapter brings a sense of relatability..",
+        name: "	Ronnett Thornton",
+        title: "Enlightment",
+
     },
     {
         id: "feedback-2",
-        content: "Money makes your life easier. If you're lucky to have it, you're lucky.",
-        name: "Steve Mark",
-        title: "Founder & Leader",
-        img: people02,
+        content: "If I were to choose one word to describe this book best, it would be the word refreshing. Much, if not most, of society and especially academia have embraced the theories of 19th Century thinkers such as Marx, Darwin, and Freud that hold to the idea that volition is illusory. We are all simply subjects of social or biological determinism. In contrast, Cunningham rejects such a view. And this is what I find refreshing about the book..",
+        name: "Terry",
+        title: "Inspirational",
+
     },
     {
         id: "feedback-3",
-        content: "It is usually people in the money business, finance, and international trade that are really rich.",
-        name: "Kenn Gallagher",
-        title: "Founder & Leader",
-        img: people03,
+        content: "UNWRAPPED GIFTS is comprised of life messages which are not only relatable but are also motivational. Cunningham takes his readers on a personal journey that begins mired in fear, doubt, and hesitancy and evolves into overcoming, confidence, and revelation. He is adept at evoking a full spectrum of emotions which make UNWRAPPED GIFTS that much more engaging. I found myself laughing, crying, and experiencing many layers of empathy and sympathy.",
+        name: "Alice Taylor",
+        title: "Amazing",
+
     },
 ];
 
 export const stats = [{
         id: "stats-1",
-        title: "User Active",
-        value: "3800+",
+        title: "All-Conference Selection",
+        value: "3",
     },
     {
         id: "stats-2",
-        title: "Trusted by Company",
-        value: "230+",
+        title: "1st Team All-American Honors",
+
     },
     {
         id: "stats-3",
-        title: "Transaction",
-        value: "$230M+",
+        title: "NCAC All-Decade Team Selection",
+
     },
 ];
 
@@ -158,7 +155,7 @@ export const socialMedia = [{
     {
         id: "social-media-4",
         icon: linkedin,
-        link: "https://www.linkedin.com/",
+        link: "http://linkedin.com/in/ron-cunningham-7341a35",
     },
 ];
 

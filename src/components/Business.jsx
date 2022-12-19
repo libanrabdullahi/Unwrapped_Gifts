@@ -1,6 +1,6 @@
 import { features } from "../constants";
 import styles, { layout } from "../style";
-import Button from "./Button";
+
 
 const FeatureCard = ({ icon, title, content, index }) => (
   <div className={`flex flex-row p-6 rounded-[20px] ${index !== features.length - 1 ? "mb-6" : "mb-0"} feature-card`}>
@@ -22,16 +22,14 @@ const Business = () =>  (
   <section id="features" className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        You do the business, <br className="sm:block hidden" /> we’ll handle
-        the money.
+        About, <br className="sm:block hidden" /> Ron Cunningham.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        With the right credit card, you can improve your financial life by
-        building credit, earning rewards and saving money. But with hundreds
-        of credit cards on the market.
+      Ron Cunningham is a Business Development Manager for BMI Federal Credit Union, serving Franklin County and the seven surrounding counties in central Ohio. At BMI, Ron combines his entrepreneurial mindset, communication, and interpersonal skills to help grow the credit union. Distinguished by his passion for building authentic relationships, Ron focuses on collaborative efforts that are committed to the development of the people in his community.
+ 
       </p>
 
-      <Button styles={`mt-10`} />
+      
     </div>
 
     <div className={`${layout.sectionImg} flex-col`}>
