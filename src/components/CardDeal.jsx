@@ -6,11 +6,11 @@ const CardDeal = () => (
   <section className={layout.section}>
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Unwrapped Gifts <br className="sm:block hidden" /> Ron "Buster" Cunningham
+        Unwrapped Gifts  <br className="sm:block hidden" /> 
       
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-      Have you ever asked yourself, “What can I give to make this world a better place?” Your answer may lie within the talent or gift you possess.
+      "I hope that as you read you will find the strength of character necessary to bring out what is best in you and share it with others. You are important; the gifts inside you need to be shared if you have not shared them already. I hope that this book finds its way to you if you need it and it brings out the best in you!"
       </p>
 
       
